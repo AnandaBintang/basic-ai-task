@@ -123,4 +123,7 @@ cython_debug/
 # File and directory
 *.py
 *.html
-oop
+oop/
+joki/
+uas/
+tubes_bisdig/
