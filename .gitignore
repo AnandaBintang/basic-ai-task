@@ -125,5 +125,4 @@ cython_debug/
 *.html
 oop/
 joki/
-uas/
 tubes_bisdig/
